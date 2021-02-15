@@ -1,0 +1,18 @@
+
+/* start responsive style */
+@media screen and (max-width: 857px){
+    .box-bg {
+        width:98%;
+        margin-left: 8px;
+    }
+    .footer-bg {
+        width: 45%;
+       margin-left: 18px;
+    }
+}
+@media screen and (max-width: 760px){
+    .footer-bg {
+       width: 96%;
+     
+    }
+}
